@@ -9,8 +9,7 @@
   <entry>
     <title></title>
     <url>/2021/02/24/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
-    <content><![CDATA[<hr>
-<p>title: 数据结构<br>date: 2021-02-24 11:54:29<br>permalink:<br>categories:<br>tags: [数据结构, 算法]<br>description: 数据结构学习，参考教程王道考研</p>
+    <content><![CDATA[<h1 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h1><p>date: 2021-02-24 11:54:29<br>permalink:<br>categories:<br>tags: [数据结构, 算法]<br>description: 数据结构学习，参考教</p>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
 <p>给与足够的眼球，所有的Bugs都很容易发现（例如，大量的beta测试，结对开发，所有的问题都能很快的发现和修复</p>
 <p> — Eric S. Raymond, 程序员，开源软件的倡导者, 出自《The Cathedral and the Bazaar》</p>
